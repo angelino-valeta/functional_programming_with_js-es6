@@ -1,1 +1,2 @@
-# Functional_Programming_with_JS-es-6
+# Functional Programming with JS ES-6
+## Code snippets for Functional Programming in Javascript.
